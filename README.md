@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Branko Asković
 
-<!--
-**BaneIo/BaneIo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Entry-Level QA Tester | QA Automation (Playwright, Cypress)
 
-Here are some ideas to get you started:
+Entry-level QA Tester with practical experience in manual and automated testing, gained through online courses and personal projects.  
+Experienced in web application testing, API testing, test case design, bug reporting, and CI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highly motivated to start a QA career and grow within a professional Agile team.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔹 Manual & Process
+- Manual Software Testing
+- Test Case Design & Execution
+- Bug Reporting
+- Agile / Scrum
+
+### 🔹 Automation & API
+- Playwright (JavaScript)
+- Playwright API Testing
+- Cypress Automation
+- API Testing – Postman (REST, GraphQL)
+- JMeter (Basic)
+
+### 🔹 Tools & Technologies
+- JavaScript | JSON
+- Git | GitHub | Git Bash
+- GitHub Actions
+- Jira | Zephyr
+- TestRail
+- MySQL | XAMPP
+- OpenCart Website Setup & Testing
+- Notion (Basic)
+
+---
+
+## 📂 Projects
+- Playwright automation framework with GitHub Actions & Allure reporting
+- Manual and automated testing of OpenCart web application
+- API testing projects (REST & GraphQL)
+
+👉 Check my repositories to see real QA testing and automation examples.
+
+---
+
+## 🎯 Career Goal
+To begin my career as a QA Tester / QA Automation Engineer and continuously improve my automation skills.
+
+---
+
+## 🤝 Let's Connect
+- 💼 Open to Junior QA / QA Automation opportunities
+- 🔗 GitHub: https://github.com/BaneIo
